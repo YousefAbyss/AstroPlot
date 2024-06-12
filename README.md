@@ -2,7 +2,10 @@
 You'll need to install scienceplots (https://github.com/garrettj403/SciencePlots)
 
 Data used in the notebooks will not be provided.
-## Notbooks:
+
+Notebooks should be easy to read and self-explanatory, feel free to contact me if you need help.
+
+## Notebooks:
 A1: Matplotlib only
 
 A2: Matplotlib rcParams (https://matplotlib.org/stable/users/explain/customizing.html)
