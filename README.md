@@ -1,7 +1,7 @@
 ## Note:
 You'll need to install scienceplots (https://github.com/garrettj403/SciencePlots)
 
-Data used in the notebooks will not be provided.
+Data used in the notebooks are not in this repository.
 
 Notebooks should be easy to read and self-explanatory, feel free to contact me if you need help.
 
