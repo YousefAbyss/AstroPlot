@@ -1,5 +1,7 @@
 ## Note:
 You'll need to install scienceplots (https://github.com/garrettj403/SciencePlots)
+
+Data used in the notebooks will not be provided.
 ## Notbooks:
 A1: Matplotlib only
 
@@ -11,4 +13,4 @@ A4: Matplotlib rcParams & SciencePlots
 
 B123: Multiple data and plots using regex
 
-C1: pcolormesh and colorbar
+C1: pcolormesh and colorbar (only the last part of the notebook is important)
