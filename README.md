@@ -1,7 +1,7 @@
 ## Note:
 You'll need to install scienceplots (https://github.com/garrettj403/SciencePlots)
 
-Data used in the notebooks are not in this repository.
+The data has been reduced in size, extract data.rar and change the path in the notebooks.
 
 Notebooks should be easy to read and self-explanatory, feel free to contact me if you need help.
 
@@ -14,6 +14,6 @@ A3: SciencePlots only
 
 A4: Matplotlib rcParams & SciencePlots
 
-B123: Multiple data and plots using regex
+B123: Multiple data and plots - filter using regex
 
 C1: pcolormesh and colorbar (only the last part of the notebook is important)
