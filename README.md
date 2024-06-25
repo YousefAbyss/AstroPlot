@@ -16,4 +16,4 @@ A4: Matplotlib rcParams & SciencePlots
 
 B123: Multiple data and plots - filter using regex
 
-C1: pcolormesh and colorbar (only the last part of the notebook is important)
+C1: pcolormesh and colorbar (simplified version)
