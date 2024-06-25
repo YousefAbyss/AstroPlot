@@ -1,7 +1,7 @@
 ## Note:
 You'll need to install scienceplots (https://github.com/garrettj403/SciencePlots)
 
-The data has been reduced in size, extract data.rar and change the path in the notebooks.
+The data has been reduced in size, extract data.rar and change the path in the notebooks. Download link: https://drive.google.com/file/d/1BkTblTtCg91KrqRTEU13K0RRVKG5it1h/view?usp=sharing
 
 Notebooks should be easy to read and self-explanatory, feel free to contact me if you need help.
 
